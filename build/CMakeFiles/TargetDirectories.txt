@@ -1,0 +1,3 @@
+C:/cugraphrag/build/CMakeFiles/cugraphrag.dir
+C:/cugraphrag/build/CMakeFiles/ALL_BUILD.dir
+C:/cugraphrag/build/CMakeFiles/ZERO_CHECK.dir

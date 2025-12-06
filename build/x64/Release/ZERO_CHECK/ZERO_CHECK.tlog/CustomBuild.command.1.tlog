@@ -1,0 +1,10 @@
+^C:\CUGRAPHRAG\BUILD\CMAKEFILES\71362968D75309D1D552F23C64DF38F2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/cugraphrag -BC:/cugraphrag/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/cugraphrag/build/cugraphrag.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

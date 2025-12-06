@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/cugraphrag/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
