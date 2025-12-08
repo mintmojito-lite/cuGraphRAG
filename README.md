@@ -7,7 +7,7 @@ This isn’t a Python script. This is a native .pyd engine for fast knowledge-gr
 Why I built this 
 
 GraphRAG is powerful but current implementations are slow (Python + NetworkX).
-So I built a runtime that actually performs like a system — not a demo.
+So I built a runtime that actually performs like a system not a demo.
 
 Key Features
 
@@ -28,7 +28,7 @@ python benchmark_rag.py
 
 Example:
 
-⚠ CPU fallback active — no GPU detected
+⚠ CPU fallback active no GPU detected
 Time: 0.0023 sec
 
 Build (Windows)
@@ -46,5 +46,5 @@ Explainable path output
 
 Full LLM integration
 
-Built by Bala —
+Built by Bala
 learning by building the stuff I wish existed.
