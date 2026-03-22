@@ -28,7 +28,7 @@ python benchmark_rag.py
 
 Example:
 
-⚠ CPU fallback active no GPU detected
+CPU fallback active no GPU detected
 Time: 0.0023 sec
 
 Build (Windows)
